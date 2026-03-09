@@ -76,3 +76,9 @@ All future updates, patch notes, and feature announcements will be posted exclus
 *Download the latest release from the Releases tab and install the APK on your Android device.*
 
 *Note on Compatibility: Full background automation requires newer device API levels to ensure smooth execution without battery-optimization interruptions. Optimization for older legacy devices is arriving in an upcoming patch.*
+
+---
+
+## Updates
+
+*v1.0.1*: AI processing bugfixes, Slow internet indicator added.
