@@ -30,7 +30,7 @@ Watch the automation happen right on your screen with live clicks and scrolls, o
 ### 2. Synchronization (SYNC)
 *   Once your profile is active, tap the **SYNC** button on the Dashboard.
 *   WorksheetGPT will securely log in to the Gibson School Systems portal and automatically fetch your data.
-*   The **Activity** tab is then populated and lists all your courses, worksheets, and tests.
+*   The **Activity** tab is then populated and lists all your courses, worksheets, tests, and optionally grades of previously completed activities (activated through the settings page.)
 
 ### 3. Execution (SOLVE)
 Choose how you want to automate:
