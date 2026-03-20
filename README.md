@@ -14,7 +14,7 @@ Watch the automation happen right on your screen with live clicks and scrolls, o
 *   👀 **Live Automation Visibility:** Watch the app work in real-time. See the live clicks, scrolls, and page navigation as the engine autonomously interacts with the web portal.
 *   🔔 **Persistent Live Notifications:** Keep track of the bot's progress without keeping the app open. A persistent notification provides live, second-by-second updates of current actions and seamlessly reports any errors.
 *   🤖 **Dual Solving Modes:** 
-    *   **Solve All Flow:** Automatically runs through the last 7 tests of *each* course with a single tap.
+    *   **Solve All Flow:** Automatically runs through the last 10 tests of *each* course with a single tap.
     *   **Manual Selection:** Pick and choose exactly which tests you want solved from the Activity tab, with the ability to queue tasks across multiple different courses.
 *   🛡️ **Robust Error Handling:** Network drop? Unexpected portal logout? The app catches all errors, reports them via notifications and the in-app console, and safely retries or skips to keep the queue moving.
 *   🌙 **Customizable UI:** Full support for **Light Mode**, **Dark Mode**, and **System Theme** settings to match your device preferences.
