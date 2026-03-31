@@ -18,8 +18,8 @@ Watch the automation happen right on your screen with live clicks and scrolls, o
     *   **Manual Selection:** Pick and choose exactly which tests you want solved from the Activity tab, with the ability to queue tasks across multiple different courses.
 *   🛡️ **Robust Error Handling:** Network drop? Unexpected portal logout? The app catches all errors, reports them via notifications and the in-app status bar, and safely retries or stops to notify you of the error so you can take the appropriate action, avoiding unfinished submits.
 *   🌙 **Customizable UI:** Full support for **Light Mode**, **Dark Mode**, and **System Theme** settings to match your device preferences.
-*   ⏰ **Smart Routines:** Set custom reminders that trigger automatic popups at your preferred times, ensuring you never forget to finish your activities. You can instantly start a full sync & solve all flow directly from your routine notification. With one tap, the engine wakes up, syncs your latest course data, and initiates the **Solve All** process.
-*   🔄 **Seamless Auto-Updates:** The app automatically checks for the latest version when you open the app (**enables through the settings menu**)and prompts you to approve the update, ensuring you always have the latest improvements and security patches.
+*   ⏰ **Smart Routines:** Set custom reminders that trigger automatic popups at your preferred times, so that you never forget to finish your activities. You can instantly start a full sync & solve all flow directly from your routine popup notification. With one tap, the engine wakes up, syncs your latest course data, and initiates the **Solve All** process.
+*   🔄 **Seamless Auto-Updates:** The app automatically checks for the latest version when you open the app (**enabled through the settings menu**) and prompts you to approve the update, ensuring you always have the latest improvements and security patches.
 You can also manually trigger an update check at any time from the settings to instantly fetch and install the latest available version.
 
 
