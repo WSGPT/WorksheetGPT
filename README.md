@@ -14,7 +14,7 @@ Watch the automation happen right on your screen with live clicks and scrolls, o
 *   👀 **Live Automation Visibility:** Watch the app work in real-time. See the live clicks, scrolls, and page navigation as the engine autonomously interacts with the web portal.
 *   🔔 **Persistent Live Notifications:** Keep track of the bot's progress without keeping the app open. A persistent notification provides live, second-by-second updates of current actions and seamlessly reports any errors.
 *   🤖 **Dual Solving Modes:** 
-    *   **Solve All Flow:** Automatically runs through all of the undone tests of *each* course with a single tap.
+    *   **Solve All Flow:** Automatically runs through all of the undone tests of *each* course with a single tap, with optional sync and solve all activated through the settings menu.
     *   **Manual Selection:** Pick and choose exactly which tests you want solved from the Activity tab, with the ability to queue tasks across multiple different courses.
 *   🛡️ **Robust Error Handling:** Network drop? Unexpected portal logout? The app catches all errors, reports them via notifications and the in-app status bar, and safely retries or stops to notify you of the error so you can take the appropriate action, avoiding unfinished submits.
 *   🌙 **Customizable UI:** Full support for **Light Mode**, **Dark Mode**, and **System Theme** settings to match your device preferences.
@@ -38,7 +38,7 @@ You can also manually trigger an update check at any time from the settings to i
 
 ### 3. Execution (SOLVE)
 Choose how you want to automate:
-*   **The "Solve All" Flow:** Hit **SOLVE** from the Dashboard to trigger the automated batch process. 
+*   **The "Solve All" Flow:** Hit **SOLVE** from the Dashboard to trigger the automated batch process, with sync if not turned off. 
 *   **Selective Solving:** Navigate to the **Activities** tab and manually check the exact tests you want the app to complete. You can freely select specific tests across multiple courses at once, then start the process.
 
 ### 4. Sit Back and Watch (or Don't!)
